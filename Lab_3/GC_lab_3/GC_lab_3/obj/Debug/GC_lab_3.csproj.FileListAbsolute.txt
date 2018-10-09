@@ -1,0 +1,7 @@
+C:\Users\rtoles\Desktop\GC_Labs\Lab_3\GC_lab_3\GC_lab_3\obj\Debug\GC_lab_3.csprojAssemblyReference.cache
+C:\Users\rtoles\Desktop\GC_Labs\Lab_3\GC_lab_3\GC_lab_3\obj\Debug\GC_lab_3.csproj.CoreCompileInputs.cache
+C:\Users\rtoles\Desktop\GC_Labs\Lab_3\GC_lab_3\GC_lab_3\bin\Debug\GC_lab_3.exe.config
+C:\Users\rtoles\Desktop\GC_Labs\Lab_3\GC_lab_3\GC_lab_3\bin\Debug\GC_lab_3.exe
+C:\Users\rtoles\Desktop\GC_Labs\Lab_3\GC_lab_3\GC_lab_3\bin\Debug\GC_lab_3.pdb
+C:\Users\rtoles\Desktop\GC_Labs\Lab_3\GC_lab_3\GC_lab_3\obj\Debug\GC_lab_3.exe
+C:\Users\rtoles\Desktop\GC_Labs\Lab_3\GC_lab_3\GC_lab_3\obj\Debug\GC_lab_3.pdb
